@@ -625,7 +625,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/islands/events/waikoloa-community-market",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -656,7 +656,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -671,7 +671,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -686,7 +686,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -701,7 +701,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -716,7 +716,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -731,7 +731,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -746,7 +746,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -793,7 +793,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -808,7 +808,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -823,7 +823,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "official-calendar-image-source",
       "imageFamily": "market"
     },
     {
@@ -848,7 +848,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Community & Family",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -862,7 +862,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -876,7 +876,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -943,7 +943,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -1097,7 +1097,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -1111,7 +1111,7 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "imageStatus": "image-source-identified",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "market"
     },
     {
@@ -1123,7 +1123,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -1136,7 +1136,7 @@
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events?islands=big_island"
     },
@@ -2709,7 +2709,7 @@
       "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events/kona-village-cocktail-pop-up-series"
     },
@@ -2725,7 +2725,7 @@
       "sourceUrl": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village"
     },
@@ -2741,7 +2741,7 @@
       "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
+      "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
       "imageSourcePage": "https://hawaii.com/events/kona-village-cocktail-pop-up-series"
     },
