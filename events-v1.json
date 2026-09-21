@@ -19,7 +19,8 @@
       "status": "in-progress",
       "taggedCount": 142,
       "requirement": "Every published event must have an image; single-row card layout.",
-      "cutoff": "2026-09-20"
+      "cutoff": "2026-09-20",
+      "imageUrlAssignedCount": 36
     }
   },
   "events": [
@@ -52,8 +53,9 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Made in Hawai‘i Artisan Market – Kona Coffee Cultural Festival",
@@ -68,8 +70,9 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Cultural Festival Lantern Parade",
@@ -84,8 +87,9 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Cultural Festival Multicultural Showcase",
@@ -100,8 +104,9 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Holualoa Coffee and Art Stroll",
@@ -116,8 +121,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Holualoa School Legacy Project at Coffee & Art Stroll",
@@ -132,8 +138,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "KCCF Cultural Activities & Demos at Donkey Mill Art Center",
@@ -148,8 +155,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Miss Kona Coffee Scholarship Competition",
@@ -164,8 +172,9 @@
       "status": "verified",
       "displayCategory": "Community & Family",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Pickle & Pour Pickleball Tournament",
@@ -180,8 +189,9 @@
       "status": "verified",
       "displayCategory": "Sports & Outdoors",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Little Miss Kona Coffee Scholarship Pageant",
@@ -196,8 +206,9 @@
       "status": "verified",
       "displayCategory": "Community & Family",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "KTA Kona Coffee Recipe Contest & Big Island Showcase",
@@ -212,8 +223,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Barista Training",
@@ -228,8 +240,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "5 Course Coffee-Flavored Supper Club",
@@ -244,8 +257,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Old Time Kona Stories, Volume 1",
@@ -260,8 +274,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Nani Keao Mele Mele Concert & Okonomiyaki",
@@ -276,8 +291,9 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Espresso Martini & Coffee Cocktail Competition",
@@ -292,8 +308,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Latte Art Throw Down",
@@ -308,8 +325,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Chamber Music Night",
@@ -324,8 +342,9 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona’s Got Talent Showcase",
@@ -340,8 +359,9 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "100% Pure Kona Coffee Half Marathon",
@@ -356,8 +376,9 @@
       "status": "verified",
       "displayCategory": "Sports & Outdoors",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Cultural Festival Ho‘olaule‘a",
@@ -372,8 +393,9 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Cultural Festival Grand Finale",
@@ -388,8 +410,9 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Cultural Festival Cupping Competition Awards Ceremony",
@@ -404,8 +427,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Dvorak & Tchaikovsky with the Chamber Orchestra of Kona",
@@ -420,8 +444,9 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Island Sun Coffee Farm & Mill Tour",
@@ -437,8 +462,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Greenwell Farms Seed to Cup Farm Tour",
@@ -454,8 +480,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "UCC Hawaii Kona Coffee Picking & Farm Experience",
@@ -471,8 +498,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Buddha’s Cup: Tasting Coffee Like Fine Wine",
@@ -488,8 +516,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Hala Tree Coffee Farm Tour",
@@ -505,8 +534,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Historical Society Coffee Living History Farm Tour",
@@ -522,8 +552,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Doutor Coffee Mauka Meadows Self-Guided Farm Tour & Tasting",
@@ -539,8 +570,9 @@
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Kona Coffee Quilt & Fiber Arts Show",
@@ -555,8 +587,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Revisiting Kealakekua Bay Exhibition",
@@ -572,8 +605,9 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://konacoffeefest.com/events-list/",
-      "imageStatus": "official-image-available",
-      "imageFamily": "kona-coffee-cultural-festival"
+      "imageStatus": "family-image-url-assigned",
+      "imageFamily": "kona-coffee-cultural-festival",
+      "imageUrl": "https://ik.imagekit.io/TBR/Island%20Events/Kona%20Coffee%20Cultural%20Festival%202025.%20Big%20Island.png?updatedAt=1758151748273"
     },
     {
       "name": "Waikoloa Community Market",
@@ -604,8 +638,9 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market"
+      "imageStatus": "image-url-assigned",
+      "imageFamily": "market",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f8/37/36/hamakua-harvest-farmers.jpg"
     },
     {
       "name": "Hilo Farmers Market – Big Market Days",
@@ -724,8 +759,9 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market"
+      "imageStatus": "image-url-assigned",
+      "imageFamily": "market",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/57/b2/95/hawi-farmers-market.jpg"
     },
     {
       "name": "Waimea Town Market",
@@ -739,8 +775,9 @@
       "status": "verified",
       "displayCategory": "Markets & Fairs",
       "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market"
+      "imageStatus": "image-url-assigned",
+      "imageFamily": "market",
+      "imageUrl": "https://quartzmountain.org/images/resources/explore-the-waimea-town-market_20230215093217.webp"
     },
     {
       "name": "Waimea Midweek Farmers Market",
