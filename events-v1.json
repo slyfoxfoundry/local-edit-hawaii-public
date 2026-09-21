@@ -3,7 +3,7 @@
     "section": "Events",
     "island": "Big Island",
     "v1Status": "publish-ready",
-    "publishableCount": 189,
+    "publishableCount": 190,
     "categoryTaxonomy": [
       "Festivals & Celebrations",
       "Music & Performance",
@@ -28,7 +28,7 @@
     "currentCalendarQA": {
       "asOf": "2026-09-21",
       "status": "in-progress",
-      "latestFixes": 3
+      "latestAdds": 1
     },
     "cutoffApplied": "2026-09-21"
   },
@@ -2787,6 +2787,19 @@
       "displayCategory": "Festivals & Celebrations",
       "imageStatus": "official-image-available",
       "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
+    },
+    {
+      "name": "An Evening with David Sedaris",
+      "town": "Hilo",
+      "region": "Hilo",
+      "category": "Comedy & Performance",
+      "startDate": "2027-02-13",
+      "venue": "Hilo Palace Theater",
+      "sourceUrl": "https://hilopalace.com/event-type/concerts-events/",
+      "status": "verified-future",
+      "displayCategory": "Music & Performance",
+      "imageStatus": "official-image-available",
+      "imageSourcePage": "https://hilopalace.com/event-type/concerts-events/"
     }
   ]
 }
