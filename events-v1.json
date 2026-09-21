@@ -24,6 +24,11 @@
       "renderableOrSourceLinkedCount": 106,
       "directImageUrlCount": 36,
       "note": "Only direct renderable image URLs count as complete; source-page URLs are tracked separately."
+    },
+    "currentCalendarQA": {
+      "asOf": "2026-09-21",
+      "status": "in-progress",
+      "fixes": 6
     }
   },
   "events": [
@@ -1686,7 +1691,7 @@
       "startDate": "2026-09-27",
       "time": "2:00 PM",
       "venue": "Kahilu Theatre",
-      "sourceUrl": "https://kahilu.org/events/kahilu-the-gift-of-place/",
+      "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://kahilu.org/shows/",
