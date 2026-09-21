@@ -23,7 +23,8 @@
       "imageUrlAssignedCount": 36,
       "renderableOrSourceLinkedCount": 106,
       "directImageUrlCount": 36,
-      "note": "Only direct renderable image URLs count as complete; source-page URLs are tracked separately."
+      "note": "Only direct renderable image URLs count as complete; source-page URLs are tracked separately.",
+      "officialArtworkVerifiedCount": 94
     },
     "currentCalendarQA": {
       "asOf": "2026-09-21",
@@ -46,8 +47,8 @@
       "sourceUrl": "https://www.gohawaii.com/islands/events/hilo-hula-tuesday",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -987,8 +988,8 @@
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1002,8 +1003,8 @@
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -1017,8 +1018,8 @@
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1180,9 +1181,9 @@
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Mākeke Fridays at Queens’ Marketplace",
@@ -1297,8 +1298,8 @@
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -1312,8 +1313,8 @@
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -1327,8 +1328,8 @@
       "sourceUrl": "https://hilopalace.com/events/category/movies/list/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "Sep 22 2:30 PM; Sep 23–24 7:00 PM"
     },
@@ -1343,8 +1344,8 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "Oct 9,10,16,17,23,24 at 7 PM; Oct 11,18,25 at 3 PM"
     },
@@ -1359,8 +1360,8 @@
       "sourceUrl": "https://hilopalace.com/event-type/concerts-events/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "7:00 PM"
     },
@@ -1374,8 +1375,8 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "7:00 PM"
     },
@@ -1390,8 +1391,8 @@
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -1404,8 +1405,8 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "7:00 PM"
     },
@@ -1419,8 +1420,8 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace",
       "time": "2:00 PM"
     },
@@ -1435,9 +1436,9 @@
       "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Fall Camp for Keiki Ages 8–14",
@@ -1451,9 +1452,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Free Forest Tours at VAC Niaulani Campus",
@@ -1466,9 +1467,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Sports & Outdoors",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Exploration in Clay with Monika Mann",
@@ -1483,9 +1484,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Wednesdays",
@@ -1500,9 +1501,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Sundays",
@@ -1517,9 +1518,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Print Lab: Monoprint and Mixed Media Exploration – Wednesdays",
@@ -1534,9 +1535,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Monday Print Lab: Monoprinting & Mixed Media Exploration",
@@ -1551,9 +1552,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Aloha Friday Cultural Activities – Volcano Art Center",
@@ -1566,9 +1567,9 @@
       "sourceUrl": "https://volcanoartcenter.org/events/calendar/hula-arts/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Bound By Compassion Exhibition",
@@ -1583,9 +1584,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified-historical-2026",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Lauhala Weaving with June Dalde",
@@ -1598,9 +1599,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Varez Forest Print Pull: Make & Take",
@@ -1613,9 +1614,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Botanical Painting with Puakea Soares",
@@ -1628,9 +1629,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "After School Keiki Drawing Classes with Ken Charon",
@@ -1645,9 +1646,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/",
       "status": "verified-historical-2026",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
       "name": "Kahilu Gallery Reception – Dominic Tidmarsh & Ken Charon",
@@ -1660,8 +1661,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1675,8 +1676,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1690,8 +1691,8 @@
       "sourceUrl": "https://kahilu.org/events/kahilu-the-gift-of-place/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1707,8 +1708,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1722,8 +1723,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1736,8 +1737,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1750,8 +1751,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1764,8 +1765,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1779,8 +1780,8 @@
       "sourceUrl": "https://kahilu.org/events/club-kahilu-dance-nights-subscription/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1793,8 +1794,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1807,8 +1808,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1821,8 +1822,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1835,8 +1836,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1849,8 +1850,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1864,8 +1865,8 @@
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1879,8 +1880,8 @@
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1893,8 +1894,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1908,8 +1909,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1923,8 +1924,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1938,8 +1939,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1952,8 +1953,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1966,8 +1967,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1980,8 +1981,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -1994,8 +1995,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -2008,8 +2009,8 @@
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -2034,8 +2035,8 @@
       "sourceUrl": "https://boxoffice.hiff.org/how-to-hiff",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -2692,8 +2693,8 @@
       "sourceUrl": "https://hawaii.com/events/hawai-i-international-film-festival",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://kahilu.org/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "kahilu"
     },
     {
@@ -2708,8 +2709,8 @@
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-not-direct-image",
+      "imageSourcePage": "https://hilopalace.com/events/list/",
+      "imageStatus": "official-artwork-verified",
       "imageFamily": "hilo-palace"
     },
     {
@@ -2785,7 +2786,7 @@
       "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageStatus": "official-image-available",
+      "imageStatus": "official-artwork-verified",
       "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     },
     {
@@ -2798,8 +2799,8 @@
       "sourceUrl": "https://hilopalace.com/event-type/concerts-events/",
       "status": "verified-future",
       "displayCategory": "Music & Performance",
-      "imageStatus": "official-image-available",
-      "imageSourcePage": "https://hilopalace.com/event-type/concerts-events/"
+      "imageStatus": "official-artwork-verified",
+      "imageSourcePage": "https://hilopalace.com/events/list/"
     }
   ]
 }
