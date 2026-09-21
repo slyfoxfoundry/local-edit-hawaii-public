@@ -3,7 +3,7 @@
     "section": "Events",
     "island": "Big Island",
     "v1Status": "publish-ready",
-    "publishableCount": 189,
+    "publishableCount": 190,
     "categoryTaxonomy": [
       "Festivals & Celebrations",
       "Music & Performance",
@@ -28,7 +28,8 @@
     "currentCalendarQA": {
       "asOf": "2026-09-21",
       "status": "in-progress",
-      "fixes": 6
+      "latestFixes": 6,
+      "latestAdds": 1
     }
   },
   "events": [
@@ -1564,7 +1565,7 @@
       "town": "Volcano",
       "region": "Puna",
       "category": "Culture & Hula",
-      "recurrence": "Weekly Friday through Dec 25, 2026",
+      "recurrence": "Weekly Friday",
       "time": "11:00 AM–1:00 PM",
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/events/calendar/hula-arts/",
@@ -2777,6 +2778,20 @@
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified-future",
       "displayCategory": "Community & Family"
+    },
+    {
+      "name": "Christmas in the Country – Volcano Art Center",
+      "town": "Volcano",
+      "region": "Puna",
+      "category": "Art & Holiday",
+      "startDate": "2026-11-26",
+      "endDate": "2026-12-31",
+      "venue": "Volcano Art Center Gallery",
+      "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
+      "status": "verified",
+      "displayCategory": "Festivals & Celebrations",
+      "imageStatus": "official-image-available",
+      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/"
     }
   ]
 }
