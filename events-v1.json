@@ -21,7 +21,9 @@
       "requirement": "Every published event must have an image; single-row card layout.",
       "cutoff": "2026-09-20",
       "imageUrlAssignedCount": 36,
-      "renderableOrSourceLinkedCount": 106
+      "renderableOrSourceLinkedCount": 106,
+      "directImageUrlCount": 36,
+      "note": "Only direct renderable image URLs count as complete; source-page URLs are tracked separately."
     }
   },
   "events": [
@@ -39,9 +41,8 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Kona Coffee Cultural Festival",
@@ -979,9 +980,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Hawaiʻi International Film Festival – Hilo Screenings",
@@ -995,9 +995,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival",
@@ -1011,9 +1010,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Hawaiʻi Island Veterans Day Parade",
@@ -1187,10 +1185,9 @@
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026"
     },
     {
       "name": "Mākeke Fridays at Queens’ Marketplace",
@@ -1306,9 +1303,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -1322,9 +1318,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Tony",
@@ -1338,9 +1333,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Little Shop of Horrors – Hilo Palace Fall Musical",
@@ -1354,9 +1348,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Haunted Palace",
@@ -1370,9 +1363,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Love, Devotion and Surrender",
@@ -1385,9 +1377,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "HIFF at Hilo Palace Theater",
@@ -1401,9 +1392,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Blind Boys of Alabama",
@@ -1416,9 +1406,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Rocky Mountain High Experience",
@@ -1431,9 +1420,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Shape of Water – Stephen Freedman Ceramic Sculpture Exhibition",
@@ -1443,13 +1431,12 @@
       "startDate": "2026-10-03",
       "endDate": "2026-11-15",
       "venue": "Volcano Art Center Gallery",
-      "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
+      "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Fall Camp for Keiki Ages 8–14",
@@ -1463,10 +1450,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Free Forest Tours at VAC Niaulani Campus",
@@ -1479,10 +1465,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Sports & Outdoors",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Exploration in Clay with Monika Mann",
@@ -1497,10 +1482,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Wednesdays",
@@ -1515,10 +1499,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Sundays",
@@ -1533,10 +1516,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
     },
     {
       "name": "Print Lab: Monoprint and Mixed Media Exploration – Wednesdays",
@@ -1551,10 +1533,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Monday Print Lab: Monoprinting & Mixed Media Exploration",
@@ -1569,26 +1550,24 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Aloha Friday Cultural Activities – Volcano Art Center",
       "town": "Volcano",
       "region": "Puna",
       "category": "Culture & Hula",
-      "recurrence": "Fridays",
-      "time": "11:00 AM",
+      "recurrence": "Weekly Friday through Dec 25, 2026",
+      "time": "11:00 AM–1:00 PM",
       "venue": "Volcano Art Center",
-      "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
+      "sourceUrl": "https://volcanoartcenter.org/events/calendar/hula-arts/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "Bound By Compassion Exhibition",
@@ -1603,10 +1582,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified-historical-2026",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
     },
     {
       "name": "Lauhala Weaving with June Dalde",
@@ -1619,10 +1597,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
     },
     {
       "name": "Varez Forest Print Pull: Make & Take",
@@ -1635,10 +1612,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09"
     },
     {
       "name": "Botanical Painting with Puakea Soares",
@@ -1651,10 +1627,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10"
     },
     {
       "name": "After School Keiki Drawing Classes with Ken Charon",
@@ -1669,10 +1644,9 @@
       "sourceUrl": "https://volcanoartcenter.org/ep-events/",
       "status": "verified-historical-2026",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/ep-events/",
-      "imageUrl": "https://volcanoartcenter.org/ep-events/"
+      "imageSourcePage": "https://volcanoartcenter.org/ep-events/"
     },
     {
       "name": "Kahilu Gallery Reception – Dominic Tidmarsh & Ken Charon",
@@ -1686,9 +1660,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Neave Trio",
@@ -1702,9 +1675,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kahilu – The Gift of Place",
@@ -1718,9 +1690,8 @@
       "status": "verified",
       "displayCategory": "Culture & Heritage",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Script & Sip",
@@ -1736,9 +1707,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Goodtimes Together with Henry Kapono & Friends",
@@ -1752,9 +1722,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "MasterWorks I: Colors of Scandinavia",
@@ -1767,9 +1736,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kamuela Philharmonic 2026–27 Season Opening",
@@ -1782,9 +1750,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Sharing Moʻolelo: A Live Taping for Hawaiʻi Radio Hour",
@@ -1797,9 +1764,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Club Kahilu Dance Night: Latin Night w/ Fuego",
@@ -1813,9 +1779,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Iestyn Davies & Oliver Wass",
@@ -1828,9 +1793,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Tomáš Kubínek – Certified Lunatic and Master of the Impossible",
@@ -1843,9 +1807,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Makana in Concert",
@@ -1858,9 +1821,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Darkside of the Beach",
@@ -1873,9 +1835,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "The Land Has Spoken: Tales of Indigenous Horror",
@@ -1888,9 +1849,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Dominic Tidmarsh – In My Dreams I Am On A Mountain",
@@ -1904,9 +1864,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Ken Charon – Visualizing Harmony",
@@ -1920,9 +1879,8 @@
       "status": "verified",
       "displayCategory": "Arts & Learning",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – 2-Day Pass Opening",
@@ -1935,9 +1893,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hoʻolauleʻa",
@@ -1951,9 +1908,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Kanikapila",
@@ -1967,9 +1923,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hana Hou",
@@ -1983,9 +1938,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Celebration of Laughs Tour",
@@ -1998,9 +1952,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Waimea Community Chorus – Christmas",
@@ -2013,9 +1966,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Blind Boys of Alabama – Kahilu",
@@ -2028,9 +1980,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Whose Live Anyway?",
@@ -2043,9 +1994,8 @@
       "status": "verified",
       "displayCategory": "Music & Performance",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kalani Peʻa – Hawaiian Christmas Show",
@@ -2058,9 +2008,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "ʻAha Hawaiʻi Kuauli Workshop Series",
@@ -2085,9 +2034,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Family Story Time – Pāhoa",
@@ -2100,10 +2048,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/"
     },
     {
       "name": "Paint-N-Sip – Pāhoa Library",
@@ -2116,10 +2063,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1"
     },
     {
       "name": "Babies, Books, and Blankets – Pāhoa",
@@ -2133,10 +2079,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/2026-10/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/2026-10/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/2026-10/"
     },
     {
       "name": "Alphabet Storytime – Honokaʻa",
@@ -2149,10 +2094,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1"
     },
     {
       "name": "Keiki Storytime – Honokaʻa",
@@ -2165,10 +2109,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1"
     },
     {
       "name": "SNAP Outreach Table – Honokaʻa",
@@ -2181,10 +2124,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/map/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Community & Family",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/map/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/map/?hide_subsequent_recurrences=1"
     },
     {
       "name": "Crochet Circle – Honokaʻa",
@@ -2197,10 +2139,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1"
     },
     {
       "name": "Jewelry Making with Sid Nakamoto",
@@ -2213,10 +2154,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1"
     },
     {
       "name": "Teen and Adult Board Games – North Kohala",
@@ -2229,10 +2169,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/week/2026-10-01/",
       "status": "verified",
       "displayCategory": "Community & Family",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/week/2026-10-01/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/week/2026-10-01/"
     },
     {
       "name": "Teen Reading Feast featuring Mockingjay Pt. 2",
@@ -2245,10 +2184,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26"
     },
     {
       "name": "Needlework Social Circle – Kailua-Kona",
@@ -2261,10 +2199,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26"
     },
     {
       "name": "ʻŌlelo Hawaiʻi with Kumu Edna Baker – Hilo",
@@ -2279,10 +2216,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi/all/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi/all/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi/all/"
     },
     {
       "name": "ʻŌlelo Hawaiʻi Afternoon Class – Hilo",
@@ -2297,10 +2233,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi-2/all/",
       "status": "verified",
       "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi-2/all/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi-2/all/"
     },
     {
       "name": "Big Island Heluhelu Quiz Bowl Meeting",
@@ -2312,10 +2247,9 @@
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/month/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-image-pending-extraction",
+      "imageStatus": "source-page-not-direct-image",
       "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/month/",
-      "imageUrl": "https://www.librarieshawaii.org/events/"
+      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/month/"
     },
     {
       "name": "Taste of Hilo 2026",
@@ -2758,9 +2692,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://kahilu.org/shows/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "kahilu",
-      "imageUrl": "https://kahilu.org/shows/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "kahilu"
     },
     {
       "name": "HIFF46 Neighbor Island – Hilo",
@@ -2775,9 +2708,8 @@
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
       "imageSourcePage": "https://hilopalace.com/palace-event/",
-      "imageStatus": "source-page-image-pending-extraction",
-      "imageFamily": "hilo-palace",
-      "imageUrl": "https://hilopalace.com/events/"
+      "imageStatus": "source-page-not-direct-image",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Feast & Fire Lūʻau at OUTRIGGER Kona Resort & Spa",
