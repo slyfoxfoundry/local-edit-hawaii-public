@@ -2,8 +2,8 @@
   "meta": {
     "section": "Events",
     "island": "Big Island",
-    "v1Status": "publish-ready-image-complete",
-    "publishableCount": 36,
+    "v1Status": "publish-ready-no-images",
+    "publishableCount": 190,
     "categoryTaxonomy": [
       "Festivals & Celebrations",
       "Music & Performance",
@@ -32,9 +32,9 @@
       "latestAdds": 1
     },
     "cutoffApplied": "2026-09-21",
-    "holdCount": 154,
-    "layout": "single-row-image-left-details-right",
-    "imageRequirement": "direct imageUrl required for every published event"
+    "holdCount": 0,
+    "layout": "single-row-date-left-details-right",
+    "imageRequirement": "none"
   },
   "events": [
     {
@@ -652,9 +652,7 @@
       "imageStatus": "image-url-assigned",
       "imageFamily": "market",
       "imageUrl": "https://quartzmountain.org/images/resources/explore-the-waimea-town-market_20230215093217.webp"
-    }
-  ],
-  "hold": [
+    },
     {
       "name": "Hilo Hula Tuesday",
       "town": "Hilo",
@@ -667,11 +665,7 @@
       "venue": "Hilo Farmers Market Stage / Hilo Palace Theater",
       "sourceUrl": "https://www.gohawaii.com/islands/events/hilo-hula-tuesday",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Waikoloa Community Market",
@@ -685,11 +679,7 @@
       "venue": "Waikoloa Stables",
       "sourceUrl": "https://www.gohawaii.com/islands/events/waikoloa-community-market",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/islands/events/waikoloa-community-market",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Hilo Farmers Market – Big Market Days",
@@ -701,11 +691,7 @@
       "venue": "Hilo Farmers Market",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Volcano Farmers Market",
@@ -717,11 +703,7 @@
       "venue": "Cooper Center",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Maku‘u Farmers Market",
@@ -733,11 +715,7 @@
       "venue": "Maku‘u Market",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Nāʻālehu Farmers Market",
@@ -749,11 +727,7 @@
       "venue": "Shaka Restaurant grounds",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Keauhou Farmers Market",
@@ -765,11 +739,7 @@
       "venue": "Keauhou Shopping Center",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Kailua Village Farmers Market",
@@ -781,11 +751,7 @@
       "venue": "Ali‘i Drive & Hualālai Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Hoʻoulu Community Farmers Market & Artisans Fair",
@@ -797,11 +763,7 @@
       "venue": "Outrigger Kona Resort & Spa",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Waimea Midweek Farmers Market",
@@ -813,11 +775,7 @@
       "venue": "Pukalani Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Kamuela Farmers Market",
@@ -829,11 +787,7 @@
       "venue": "Pukalani Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Waimea Nui Farmers Market",
@@ -845,11 +799,7 @@
       "venue": "Kūhiō Hale",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
-      "imageStatus": "official-calendar-image-source",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Merrie Monarch Festival",
@@ -862,8 +812,7 @@
       "venue": "Edith Kanaka‘ole Multi-Purpose Stadium and Hilo venues",
       "sourceUrl": "https://www.merriemonarch.com/",
       "status": "verified-historical-2026",
-      "displayCategory": "Festivals & Celebrations",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Papaikou Hongwanji Rummage Sale",
@@ -873,11 +822,7 @@
       "startDate": "2026-09-26",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Kona Village Cocktail Pop-Up Series",
@@ -889,12 +834,8 @@
       "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
       "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
       "endDate": "2026-11-22",
-      "dateNote": "Upcoming 2026 dates: Oct 9–10 and Nov 21–22",
-      "holdReason": "missing-direct-image-url"
+      "dateNote": "Upcoming 2026 dates: Oct 9–10 and Nov 21–22"
     },
     {
       "name": "Pizzaiolo by the Sea at Kona Village",
@@ -905,11 +846,7 @@
       "venue": "Kona Village, A Rosewood Resort",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "IRONMAN World Championship",
@@ -920,8 +857,7 @@
       "venue": "Kailua-Kona / Kona-Kohala course corridor",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Hawaiʻi Food & Wine Festival – Big Island",
@@ -933,11 +869,7 @@
       "venue": "Mauna Kea Resort area",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Hawaiʻi Food & Wine Festival Golf Classic",
@@ -949,11 +881,7 @@
       "parentEvent": "Hawaiʻi Food & Wine Festival – Big Island",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Smoked, Shucked & Cured",
@@ -965,8 +893,7 @@
       "parentEvent": "Hawaiʻi Food & Wine Festival – Big Island",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-october",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Chef Rhoda’s Table at Mauna Lani",
@@ -977,11 +904,7 @@
       "venue": "Mauna Lani",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Slack Key Guitar Festival",
@@ -991,8 +914,7 @@
       "startDate": "2026-10-18",
       "sourceUrl": "https://www.govisithawaii.com/what-to-know-and-plan-for-an-october-vacation-to-hawaii/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Hawaiʻi Island Festival of Birds",
@@ -1002,8 +924,7 @@
       "startDate": "2026-10-24",
       "sourceUrl": "https://www.govisithawaii.com/what-to-know-and-plan-for-an-october-vacation-to-hawaii/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Hawaiʻi International Film Festival – Waimea Screenings",
@@ -1015,11 +936,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Hawaiʻi International Film Festival – Hilo Screenings",
@@ -1031,11 +948,7 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival",
@@ -1047,11 +960,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Hawaiʻi Island Veterans Day Parade",
@@ -1063,8 +972,7 @@
       "venue": "Downtown Hilo",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "5th Annual Honokaʻa Renaissance Faire",
@@ -1075,8 +983,7 @@
       "venue": "Honokaʻa",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Kokua Kailua Village Stroll",
@@ -1089,11 +996,7 @@
       "recurrence": "Monthly Sunday",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.konaweb.com/calendar/",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Art & Sol: From Soil to Soul",
@@ -1104,8 +1007,7 @@
       "time": "12:30 PM",
       "sourceUrl": "https://alohacalendar.com/island/big-island",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Pulley Live in Kona",
@@ -1116,8 +1018,7 @@
       "time": "6:00 PM",
       "sourceUrl": "https://alohacalendar.com/island/big-island",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "20th Annual Paradise Studio Tour",
@@ -1128,8 +1029,7 @@
       "time": "10:00 AM",
       "sourceUrl": "https://alohacalendar.com/island/big-island",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Kona Village Pūlehu Night",
@@ -1140,11 +1040,7 @@
       "venue": "Kona Village, A Rosewood Resort",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Queens’ Culinary Market",
@@ -1154,11 +1050,7 @@
       "recurrence": "Every 2 weeks on Tuesday",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Paradise Studio Tour",
@@ -1168,11 +1060,7 @@
       "startDate": "2026-12-05",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Dustin Valette Culinary Residency",
@@ -1182,11 +1070,7 @@
       "startDate": "2026-12-10",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Paniolo BBQ Dinner",
@@ -1198,8 +1082,7 @@
       "venue": "Kahua Ranch",
       "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Paniolo+BBQ+Dinner+Waimea+HI",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Hawaiʻi Keiki Rodeo – September Weekend",
@@ -1210,8 +1093,7 @@
       "endDate": "2026-09-27",
       "sourceUrl": "https://www.govisithawaii.com/all-you-need-to-know-for-planning-a-hawaii-vacation-for-september/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Aloha Fridays at Volcano Art Center",
@@ -1223,11 +1105,7 @@
       "venue": "Volcano Art Center Gallery, Hawaiʻi Volcanoes National Park",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Mākeke Fridays at Queens’ Marketplace",
@@ -1239,11 +1117,7 @@
       "venue": "Queens’ Marketplace",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Friday Night Market at the Hilo Town Market",
@@ -1255,11 +1129,7 @@
       "venue": "69 Waianuenue Ave",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Hale Ho‘aloha Lūʻau at Mauna Lani",
@@ -1271,11 +1141,7 @@
       "venue": "Mauna Lani",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Food Truck Saturdays at the Meadery",
@@ -1287,8 +1153,7 @@
       "venue": "16-313 Shipman Rd",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "AMTGARD Live Action Role Playing – Hilo",
@@ -1300,8 +1165,7 @@
       "venue": "Liliʻuokalani Gardens",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Free Entrance Day – Hawaiʻi Volcanoes National Park (Veterans Day)",
@@ -1312,8 +1176,7 @@
       "venue": "Hawaiʻi Volcanoes National Park",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Free Entrance Day – Puʻuhonua o Hōnaunau National Historical Park (Veterans Day)",
@@ -1324,8 +1187,7 @@
       "venue": "Puʻuhonua o Hōnaunau National Historical Park",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Free Entrance Day – Kaloko-Honokōhau National Historical Park (Veterans Day)",
@@ -1336,8 +1198,7 @@
       "venue": "Kaloko-Honokōhau National Historical Park",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Lava Docs",
@@ -1349,11 +1210,7 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -1365,11 +1222,7 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Tony",
@@ -1382,11 +1235,7 @@
       "sourceUrl": "https://hilopalace.com/events/category/movies/list/",
       "status": "verified",
       "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "Sep 22 2:30 PM; Sep 23–24 7:00 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "Sep 22 2:30 PM; Sep 23–24 7:00 PM"
     },
     {
       "name": "Little Shop of Horrors – Hilo Palace Fall Musical",
@@ -1399,11 +1248,7 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "Oct 9,10,16,17,23,24 at 7 PM; Oct 11,18,25 at 3 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "Oct 9,10,16,17,23,24 at 7 PM; Oct 11,18,25 at 3 PM"
     },
     {
       "name": "The Haunted Palace",
@@ -1416,11 +1261,7 @@
       "sourceUrl": "https://hilopalace.com/event-type/concerts-events/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "7:00 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "7:00 PM"
     },
     {
       "name": "Love, Devotion and Surrender",
@@ -1432,11 +1273,7 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "7:00 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "7:00 PM"
     },
     {
       "name": "HIFF at Hilo Palace Theater",
@@ -1448,11 +1285,7 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "The Blind Boys of Alabama",
@@ -1464,11 +1297,7 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "7:00 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "7:00 PM"
     },
     {
       "name": "Rocky Mountain High Experience",
@@ -1480,11 +1309,7 @@
       "sourceUrl": "https://hilopalace.com/events/tag/live-show/list/",
       "status": "verified",
       "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "time": "2:00 PM",
-      "holdReason": "missing-direct-image-url"
+      "time": "2:00 PM"
     },
     {
       "name": "The Shape of Water – Stephen Freedman Ceramic Sculpture Exhibition",
@@ -1496,11 +1321,7 @@
       "venue": "Volcano Art Center Gallery",
       "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Fall Camp for Keiki Ages 8–14",
@@ -1513,11 +1334,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Free Forest Tours at VAC Niaulani Campus",
@@ -1529,11 +1346,7 @@
       "venue": "Volcano Art Center Niaulani Campus",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Exploration in Clay with Monika Mann",
@@ -1547,11 +1360,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Wednesdays",
@@ -1565,11 +1374,7 @@
       "venue": "Volcano Art Center Niaulani Campus",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Handbuilding with Clay with Diane Hanzel – Sundays",
@@ -1583,11 +1388,7 @@
       "venue": "Volcano Art Center Niaulani Campus",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Print Lab: Monoprint and Mixed Media Exploration – Wednesdays",
@@ -1601,11 +1402,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Monday Print Lab: Monoprinting & Mixed Media Exploration",
@@ -1619,11 +1416,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Aloha Friday Cultural Activities – Volcano Art Center",
@@ -1635,11 +1428,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/events/calendar/hula-arts/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Bound By Compassion Exhibition",
@@ -1653,11 +1442,7 @@
       "venue": "Volcano Art Center Niaulani Campus",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified-historical-2026",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Lauhala Weaving with June Dalde",
@@ -1669,11 +1454,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Varez Forest Print Pull: Make & Take",
@@ -1685,11 +1466,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-09",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Botanical Painting with Puakea Soares",
@@ -1701,11 +1478,7 @@
       "venue": "Volcano Art Center",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/?epc_month=2026-10",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "After School Keiki Drawing Classes with Ken Charon",
@@ -1719,11 +1492,7 @@
       "venue": "Volcano Art Center Niaulani Campus",
       "sourceUrl": "https://volcanoartcenter.org/ep-events/",
       "status": "verified-historical-2026",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "volcano-art-center",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Kahilu Gallery Reception – Dominic Tidmarsh & Ken Charon",
@@ -1735,11 +1504,7 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Neave Trio",
@@ -1751,11 +1516,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Kahilu – The Gift of Place",
@@ -1767,11 +1528,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/events/kahilu-the-gift-of-place/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Script & Sip",
@@ -1785,11 +1542,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Goodtimes Together with Henry Kapono & Friends",
@@ -1801,11 +1554,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "MasterWorks I: Colors of Scandinavia",
@@ -1816,11 +1565,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Kamuela Philharmonic 2026–27 Season Opening",
@@ -1831,11 +1576,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Sharing Moʻolelo: A Live Taping for Hawaiʻi Radio Hour",
@@ -1846,11 +1587,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Club Kahilu Dance Night: Latin Night w/ Fuego",
@@ -1862,11 +1599,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/events/club-kahilu-dance-nights-subscription/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Iestyn Davies & Oliver Wass",
@@ -1877,11 +1610,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Tomáš Kubínek – Certified Lunatic and Master of the Impossible",
@@ -1892,11 +1621,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Makana in Concert",
@@ -1907,11 +1632,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Darkside of the Beach",
@@ -1922,11 +1643,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "The Land Has Spoken: Tales of Indigenous Horror",
@@ -1937,11 +1654,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Dominic Tidmarsh – In My Dreams I Am On A Mountain",
@@ -1953,11 +1666,7 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Ken Charon – Visualizing Harmony",
@@ -1969,11 +1678,7 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – 2-Day Pass Opening",
@@ -1984,11 +1689,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hoʻolauleʻa",
@@ -2000,11 +1701,7 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Kanikapila",
@@ -2016,11 +1713,7 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hana Hou",
@@ -2032,11 +1725,7 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Celebration of Laughs Tour",
@@ -2047,11 +1736,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Waimea Community Chorus – Christmas",
@@ -2062,11 +1747,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Blind Boys of Alabama – Kahilu",
@@ -2077,11 +1758,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Whose Live Anyway?",
@@ -2092,11 +1769,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Kalani Peʻa – Hawaiian Christmas Show",
@@ -2107,11 +1780,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "ʻAha Hawaiʻi Kuauli Workshop Series",
@@ -2122,8 +1791,7 @@
       "endDate": "2026-11-07",
       "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Hawaiʻi International Film Festival – Kahilu Theatre",
@@ -2135,11 +1803,7 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://boxoffice.hiff.org/how-to-hiff",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Family Story Time – Pāhoa",
@@ -2151,11 +1815,7 @@
       "venue": "Pāhoa Public & School Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Paint-N-Sip – Pāhoa Library",
@@ -2167,11 +1827,7 @@
       "venue": "Pāhoa Public & School Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Babies, Books, and Blankets – Pāhoa",
@@ -2184,11 +1840,7 @@
       "venue": "Pāhoa Public & School Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/2026-10/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/2026-10/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Alphabet Storytime – Honokaʻa",
@@ -2200,11 +1852,7 @@
       "venue": "Honokaʻa Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Keiki Storytime – Honokaʻa",
@@ -2216,11 +1864,7 @@
       "venue": "Honokaʻa Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/week/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "SNAP Outreach Table – Honokaʻa",
@@ -2232,11 +1876,7 @@
       "venue": "Honokaʻa Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/map/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/map/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Crochet Circle – Honokaʻa",
@@ -2248,11 +1888,7 @@
       "venue": "Honokaʻa Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Jewelry Making with Sid Nakamoto",
@@ -2264,11 +1900,7 @@
       "venue": "North Kohala Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/map/?hide_subsequent_recurrences=1",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Teen and Adult Board Games – North Kohala",
@@ -2280,11 +1912,7 @@
       "venue": "North Kohala Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/community/week/2026-10-01/",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/community/week/2026-10-01/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Teen Reading Feast featuring Mockingjay Pt. 2",
@@ -2296,11 +1924,7 @@
       "venue": "Kailua-Kona Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Needlework Social Circle – Kailua-Kona",
@@ -2312,11 +1936,7 @@
       "venue": "Kailua-Kona Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/map/?hide_subsequent_recurrences=1&tribe-bar-date=2026-09-26",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "ʻŌlelo Hawaiʻi with Kumu Edna Baker – Hilo",
@@ -2330,11 +1950,7 @@
       "venue": "Hilo Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi/all/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi/all/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "ʻŌlelo Hawaiʻi Afternoon Class – Hilo",
@@ -2348,11 +1964,7 @@
       "venue": "Hilo Public Library",
       "sourceUrl": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi-2/all/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/event/%CA%BBolelo-hawai%CA%BBi-2/all/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Big Island Heluhelu Quiz Bowl Meeting",
@@ -2363,11 +1975,7 @@
       "time": "3:00 PM–4:00 PM",
       "sourceUrl": "https://www.librarieshawaii.org/events/category/activities/month/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "source-page-not-direct-image",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.librarieshawaii.org/events/category/activities/month/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Taste of Hilo 2026",
@@ -2378,8 +1986,7 @@
       "venue": "Sangha Hall",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Hawaiʻi Festival of Birds – Bird Fair & Celebration",
@@ -2391,8 +1998,7 @@
       "venue": "Grand Naniloa Hotel",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Halloween Trick-or-Treat at Queens’ Marketplace",
@@ -2404,11 +2010,7 @@
       "venue": "Queens’ Marketplace",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://www.konaweb.com/calendar/",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Native Food Forest Workshop Series",
@@ -2418,8 +2020,7 @@
       "recurrence": "Eight-workshop series",
       "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
       "status": "verified-series",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Employment Law Seminar – Kona-Kohala Chamber",
@@ -2430,8 +2031,7 @@
       "venue": "Waikoloa",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "AfterHours Networking – Full Life",
@@ -2441,8 +2041,7 @@
       "startDate": "2026-10-21",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Sister Chamber 20th Anniversary Celebration Dinner",
@@ -2453,11 +2052,7 @@
       "venue": "Outrigger Kona Resort & Spa",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://www.kona-kohala.com/event-calendar",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "AfterHours Networking – Parker Ranch Center & Southwest Airlines",
@@ -2468,8 +2063,7 @@
       "venue": "Parker Ranch Center",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "AfterHours Networking – Magics Beach Grill",
@@ -2480,8 +2074,7 @@
       "venue": "Magics Beach Grill",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Taco Tuesday at Harvest 19 Kitchen & Bar",
@@ -2493,8 +2086,7 @@
       "venue": "Harvest 19 Kitchen & Bar",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Kanakapila LIVE! at the Booch Bar",
@@ -2506,8 +2098,7 @@
       "venue": "The Booch Bar",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "The Aloha Reset: Breathe & Unwind",
@@ -2519,8 +2110,7 @@
       "venue": "SCP Hilo Hotel",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Springboard Diving Club",
@@ -2532,8 +2122,7 @@
       "venue": "Kawamoto Pool",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Lei Making at SCP Hilo Hotel",
@@ -2545,8 +2134,7 @@
       "venue": "SCP Hilo Hotel",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Movie Monday – Laupāhoehoe Library",
@@ -2558,11 +2146,7 @@
       "venue": "Laupāhoehoe Public & School Library",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-state-public-library",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Burgers & Trivia at Kona VFW",
@@ -2574,8 +2158,7 @@
       "venue": "Kona VFW Post #12122",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Open Mic Night – Hilo",
@@ -2587,8 +2170,7 @@
       "venue": "168 Keawe Street",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Yoga on the Beach at A-Bay",
@@ -2600,8 +2182,7 @@
       "venue": "Lava Lava Beach Club at ʻAnaehoʻomalu Bay",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "King Kamehameha Cultural Historical Tour",
@@ -2613,8 +2194,7 @@
       "venue": "75-5660 Palani Rd",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "The Joy of Art – Intro to Acrylic Painting",
@@ -2626,8 +2206,7 @@
       "venue": "15-2714 Pāhoa Village Rd",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Arts & Learning",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Arts & Learning"
     },
     {
       "name": "Live Music at Ka Lihikai",
@@ -2639,8 +2218,7 @@
       "venue": "Ka Lihikai, 93 Banyan Drive",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Paniolo Legends Under The Lights",
@@ -2652,8 +2230,7 @@
       "venue": "Waikoloa Stables",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Karaoke at Koa's",
@@ -2665,8 +2242,7 @@
       "venue": "Koa's, Pāhoa Village Road",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Live Music at Hula Lounge",
@@ -2678,8 +2254,7 @@
       "venue": "Hula Lounge, 93 Banyan Drive",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Music & Performance",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     },
     {
       "name": "Heat Resilience & Cooling Solutions Workshop",
@@ -2691,8 +2266,7 @@
       "venue": "Ocean View Community Center",
       "sourceUrl": "https://kaunewshawaii.org/events",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Global Breadfruit Summit 2026",
@@ -2704,11 +2278,7 @@
       "venue": "Outrigger Kona Resort",
       "sourceUrl": "https://kaunewshawaii.org/events",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://kaunewshawaii.org/events",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Kaʻū Taro Festival",
@@ -2720,8 +2290,7 @@
       "venue": "Pāhala Community Center",
       "sourceUrl": "https://kaunewshawaii.org/events",
       "status": "verified-future",
-      "displayCategory": "Culture & Heritage",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Ainaloa Monthly Community Yard Sale",
@@ -2732,11 +2301,7 @@
       "venue": "Ainaloa Longhouse",
       "sourceUrl": "https://www.ainaloacommunityassociation.org/",
       "status": "recurring-series",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.ainaloacommunityassociation.org/",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Yoga at SCP Hilo Hotel",
@@ -2748,8 +2313,7 @@
       "venue": "SCP Hilo Hotel",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Sports & Outdoors"
     },
     {
       "name": "Puʻuhonua Wellness Phase 2: Sustainable/Advanced AgTech Training",
@@ -2761,8 +2325,7 @@
       "venue": "Online / Hilo program",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Pukalani Midweek Market",
@@ -2774,11 +2337,7 @@
       "venue": "67-139 Pukalani Rd",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Kona Village Cocktail Pop-Up – Rubén Rolón of Bar Colette",
@@ -2791,11 +2350,7 @@
       "parentEvent": "Kona Village Cocktail Pop-Up Series",
       "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Pizzaiolo by the Sea – Pizzana Pop-Up",
@@ -2808,11 +2363,7 @@
       "parentEvent": "Pizzaiolo by the Sea at Kona Village",
       "sourceUrl": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "Kona Village Cocktail Pop-Up – Bar BenFiddich",
@@ -2825,11 +2376,7 @@
       "parentEvent": "Kona Village Cocktail Pop-Up Series",
       "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
-      "displayCategory": "Food & Farm",
-      "imageStatus": "event-page-has-image",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Food & Farm"
     },
     {
       "name": "HIFF46 Neighbor Island – Waimea",
@@ -2842,11 +2389,7 @@
       "parentEvent": "Hawaiʻi International Film Festival",
       "sourceUrl": "https://hawaii.com/events/hawai-i-international-film-festival",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://kahilu.org/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "kahilu",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "HIFF46 Neighbor Island – Hilo",
@@ -2859,11 +2402,7 @@
       "parentEvent": "Hawaiʻi International Film Festival",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "imageStatus": "official-artwork-verified",
-      "imageFamily": "hilo-palace",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "Feast & Fire Lūʻau at OUTRIGGER Kona Resort & Spa",
@@ -2875,11 +2414,7 @@
       "venue": "OUTRIGGER Kona Resort & Spa",
       "sourceUrl": "https://bigislandnow.com/events/date/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage",
-      "imageStatus": "official-image-available",
-      "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://bigislandnow.com/events/date/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Farmers Market at Kings’ Shops",
@@ -2891,11 +2426,7 @@
       "venue": "250 Waikoloa Beach Drive",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs",
-      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "imageStatus": "image-source-identified",
-      "imageFamily": "market",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Markets & Fairs"
     },
     {
       "name": "Kona-Kohala Chamber AfterHours – Kona Coffee & Tea",
@@ -2906,8 +2437,7 @@
       "venue": "Kona Coffee & Tea",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified-future",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Kona-Kohala Chamber AfterHours – Hawaii Spas & Outdoor",
@@ -2917,8 +2447,7 @@
       "startDate": "2027-02-17",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified-future",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Kona-Kohala Chamber AfterHours – Hawaiʻi Community College Pālamanui",
@@ -2929,8 +2458,7 @@
       "venue": "Hawaiʻi Community College – Pālamanui",
       "sourceUrl": "https://www.kona-kohala.com/event-calendar",
       "status": "verified-future",
-      "displayCategory": "Community & Family",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Community & Family"
     },
     {
       "name": "Christmas in the Country – Volcano Art Center",
@@ -2942,10 +2470,7 @@
       "venue": "Volcano Art Center Gallery",
       "sourceUrl": "https://volcanoartcenter.org/gallery/exhibitions/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations",
-      "imageStatus": "official-artwork-verified",
-      "imageSourcePage": "https://volcanoartcenter.org/gallery/exhibitions/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Festivals & Celebrations"
     },
     {
       "name": "An Evening with David Sedaris",
@@ -2956,10 +2481,8 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/event-type/concerts-events/",
       "status": "verified-future",
-      "displayCategory": "Music & Performance",
-      "imageStatus": "official-artwork-verified",
-      "imageSourcePage": "https://hilopalace.com/events/list/",
-      "holdReason": "missing-direct-image-url"
+      "displayCategory": "Music & Performance"
     }
-  ]
+  ],
+  "hold": []
 }
