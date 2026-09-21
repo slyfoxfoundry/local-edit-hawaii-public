@@ -28,8 +28,7 @@
     "currentCalendarQA": {
       "asOf": "2026-09-21",
       "status": "in-progress",
-      "latestFixes": 6,
-      "latestAdds": 1
+      "latestFixes": 3
     }
   },
   "events": [
@@ -864,14 +863,16 @@
       "town": "Kailua-Kona",
       "region": "Kona",
       "category": "Food & Drink",
-      "startDate": "2026-10-08",
+      "startDate": "2026-10-09",
       "venue": "Kona Village, A Rosewood Resort",
-      "sourceUrl": "https://hawaii.com/events?islands=big_island",
+      "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
       "status": "verified",
       "displayCategory": "Food & Farm",
       "imageStatus": "event-page-has-image",
       "imageFamily": "hawaii-events-organizer",
-      "imageSourcePage": "https://hawaii.com/events?islands=big_island"
+      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
+      "endDate": "2026-11-22",
+      "dateNote": "Upcoming 2026 dates: Oct 9–10 and Nov 21–22"
     },
     {
       "name": "Pizzaiolo by the Sea at Kona Village",
