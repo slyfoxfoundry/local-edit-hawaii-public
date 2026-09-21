@@ -14,7 +14,13 @@
       "Sports & Outdoors",
       "Community & Family"
     ],
-    "asOf": "2026-09-20"
+    "asOf": "2026-09-20",
+    "imageEnrichment": {
+      "status": "in-progress",
+      "taggedCount": 96,
+      "requirement": "Every published event must have an image; single-row card layout.",
+      "cutoff": "2026-09-20"
+    }
   },
   "events": [
     {
@@ -29,7 +35,10 @@
       "venue": "Hilo Farmers Market Stage / Hilo Palace Theater",
       "sourceUrl": "https://www.gohawaii.com/islands/events/hilo-hula-tuesday",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Kona Coffee Cultural Festival",
@@ -41,7 +50,10 @@
       "venue": "Various Kona venues",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Made in Hawai‘i Artisan Market – Kona Coffee Cultural Festival",
@@ -54,7 +66,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Cultural Festival Lantern Parade",
@@ -67,7 +82,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Cultural Festival Multicultural Showcase",
@@ -80,7 +98,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/event/multicultural-showcase/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Holualoa Coffee and Art Stroll",
@@ -93,7 +114,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Holualoa School Legacy Project at Coffee & Art Stroll",
@@ -106,7 +130,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "KCCF Cultural Activities & Demos at Donkey Mill Art Center",
@@ -119,7 +146,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Miss Kona Coffee Scholarship Competition",
@@ -132,7 +162,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Community & Family"
+      "displayCategory": "Community & Family",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Pickle & Pour Pickleball Tournament",
@@ -145,7 +178,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors"
+      "displayCategory": "Sports & Outdoors",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Little Miss Kona Coffee Scholarship Pageant",
@@ -158,7 +194,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Community & Family"
+      "displayCategory": "Community & Family",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "KTA Kona Coffee Recipe Contest & Big Island Showcase",
@@ -171,7 +210,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Barista Training",
@@ -184,7 +226,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "5 Course Coffee-Flavored Supper Club",
@@ -197,7 +242,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Old Time Kona Stories, Volume 1",
@@ -210,7 +258,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Nani Keao Mele Mele Concert & Okonomiyaki",
@@ -223,7 +274,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Espresso Martini & Coffee Cocktail Competition",
@@ -236,7 +290,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Latte Art Throw Down",
@@ -249,7 +306,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Chamber Music Night",
@@ -262,7 +322,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona’s Got Talent Showcase",
@@ -275,7 +338,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "100% Pure Kona Coffee Half Marathon",
@@ -288,7 +354,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Sports & Outdoors"
+      "displayCategory": "Sports & Outdoors",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Cultural Festival Ho‘olaule‘a",
@@ -301,7 +370,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Cultural Festival Grand Finale",
@@ -314,7 +386,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Cultural Festival Cupping Competition Awards Ceremony",
@@ -327,7 +402,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Dvorak & Tchaikovsky with the Chamber Orchestra of Kona",
@@ -340,7 +418,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Island Sun Coffee Farm & Mill Tour",
@@ -354,7 +435,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Greenwell Farms Seed to Cup Farm Tour",
@@ -368,7 +452,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "UCC Hawaii Kona Coffee Picking & Farm Experience",
@@ -382,7 +469,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Buddha’s Cup: Tasting Coffee Like Fine Wine",
@@ -396,7 +486,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Hala Tree Coffee Farm Tour",
@@ -410,7 +503,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Historical Society Coffee Living History Farm Tour",
@@ -424,7 +520,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Doutor Coffee Mauka Meadows Self-Guided Farm Tour & Tasting",
@@ -438,7 +537,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Food & Farm"
+      "displayCategory": "Food & Farm",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Kona Coffee Quilt & Fiber Arts Show",
@@ -451,7 +553,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Revisiting Kealakekua Bay Exhibition",
@@ -465,7 +570,10 @@
       "parentEvent": "Kona Coffee Cultural Festival",
       "sourceUrl": "https://konacoffeefest.com/events/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://konacoffeefest.com/events-list/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kona-coffee-cultural-festival"
     },
     {
       "name": "Waikoloa Community Market",
@@ -479,7 +587,10 @@
       "venue": "Waikoloa Stables",
       "sourceUrl": "https://www.gohawaii.com/islands/events/waikoloa-community-market",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/islands/events/waikoloa-community-market",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Hāmākua Harvest Farmers Market",
@@ -491,7 +602,10 @@
       "venue": "Hāmākua Harvest",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Hilo Farmers Market – Big Market Days",
@@ -503,7 +617,10 @@
       "venue": "Hilo Farmers Market",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Volcano Farmers Market",
@@ -515,7 +632,10 @@
       "venue": "Cooper Center",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Maku‘u Farmers Market",
@@ -527,7 +647,10 @@
       "venue": "Maku‘u Market",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Nāʻālehu Farmers Market",
@@ -539,7 +662,10 @@
       "venue": "Shaka Restaurant grounds",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Keauhou Farmers Market",
@@ -551,7 +677,10 @@
       "venue": "Keauhou Shopping Center",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Kailua Village Farmers Market",
@@ -563,7 +692,10 @@
       "venue": "Ali‘i Drive & Hualālai Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Hoʻoulu Community Farmers Market & Artisans Fair",
@@ -575,7 +707,10 @@
       "venue": "Outrigger Kona Resort & Spa",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Hāwī Farmers Market",
@@ -587,7 +722,10 @@
       "venue": "Kohala Village HUB Entrance",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Waimea Town Market",
@@ -599,7 +737,10 @@
       "venue": "Parker School",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Waimea Midweek Farmers Market",
@@ -611,7 +752,10 @@
       "venue": "Pukalani Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Kamuela Farmers Market",
@@ -623,7 +767,10 @@
       "venue": "Pukalani Road",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Waimea Nui Farmers Market",
@@ -635,7 +782,10 @@
       "venue": "Kūhiō Hale",
       "sourceUrl": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.gohawaii.com/fr/islands/hawaii-big-island/things-to-do/land-activities/farmers-markets",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Merrie Monarch Festival",
@@ -770,7 +920,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Hawaiʻi International Film Festival – Hilo Screenings",
@@ -782,7 +935,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival",
@@ -794,7 +950,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-november",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Hawaiʻi Island Veterans Day Parade",
@@ -830,7 +989,10 @@
       "recurrence": "Monthly Sunday",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.konaweb.com/calendar/",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Art & Sol: From Soil to Soul",
@@ -884,7 +1046,10 @@
       "recurrence": "Every 2 weeks on Tuesday",
       "sourceUrl": "https://hawaii.com/events?islands=big_island",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://hawaii.com/events?islands=big_island",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Paradise Studio Tour",
@@ -964,7 +1129,10 @@
       "venue": "Queens’ Marketplace",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Friday Night Market at the Hilo Town Market",
@@ -976,7 +1144,10 @@
       "venue": "69 Waianuenue Ave",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Hale Ho‘aloha Lūʻau at Mauna Lani",
@@ -1057,7 +1228,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -1069,7 +1243,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Tony",
@@ -1081,7 +1258,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/events/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Little Shop of Horrors – Hilo Palace Fall Musical",
@@ -1093,7 +1273,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Haunted Palace",
@@ -1105,7 +1288,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Love, Devotion and Surrender",
@@ -1116,7 +1302,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "HIFF at Hilo Palace Theater",
@@ -1128,7 +1317,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Blind Boys of Alabama",
@@ -1139,7 +1331,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Rocky Mountain High Experience",
@@ -1150,7 +1345,10 @@
       "venue": "Hilo Palace Theater",
       "sourceUrl": "https://hilopalace.com/palace-event/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "The Shape of Water – Stephen Freedman Ceramic Sculpture Exhibition",
@@ -1345,7 +1543,10 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Neave Trio",
@@ -1357,7 +1558,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kahilu – The Gift of Place",
@@ -1369,7 +1573,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/events/kahilu-the-gift-of-place/",
       "status": "verified",
-      "displayCategory": "Culture & Heritage"
+      "displayCategory": "Culture & Heritage",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Script & Sip",
@@ -1383,7 +1590,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Goodtimes Together with Henry Kapono & Friends",
@@ -1395,7 +1605,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "MasterWorks I: Colors of Scandinavia",
@@ -1406,7 +1619,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kamuela Philharmonic 2026–27 Season Opening",
@@ -1417,7 +1633,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Sharing Moʻolelo: A Live Taping for Hawaiʻi Radio Hour",
@@ -1428,7 +1647,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Club Kahilu Dance Night: Latin Night w/ Fuego",
@@ -1440,7 +1662,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/events/club-kahilu-dance-nights-subscription/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Iestyn Davies & Oliver Wass",
@@ -1451,7 +1676,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Tomáš Kubínek – Certified Lunatic and Master of the Impossible",
@@ -1462,7 +1690,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Makana in Concert",
@@ -1473,7 +1704,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Darkside of the Beach",
@@ -1484,7 +1718,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "The Land Has Spoken: Tales of Indigenous Horror",
@@ -1495,7 +1732,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Dominic Tidmarsh – In My Dreams I Am On A Mountain",
@@ -1507,7 +1747,10 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Ken Charon – Visualizing Harmony",
@@ -1519,7 +1762,10 @@
       "venue": "Kahilu Theatre Galleries",
       "sourceUrl": "https://kahilu.org/exhibits/",
       "status": "verified",
-      "displayCategory": "Arts & Learning"
+      "displayCategory": "Arts & Learning",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – 2-Day Pass Opening",
@@ -1530,7 +1776,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hoʻolauleʻa",
@@ -1542,7 +1791,10 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Kanikapila",
@@ -1554,7 +1806,10 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "24th Annual ʻUkulele & Slack Key Guitar Festival – Hana Hou",
@@ -1566,7 +1821,10 @@
       "parentEvent": "24th Annual ʻUkulele & Slack Key Guitar Festival",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Celebration of Laughs Tour",
@@ -1577,7 +1835,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Waimea Community Chorus – Christmas",
@@ -1588,7 +1849,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Blind Boys of Alabama – Kahilu",
@@ -1599,7 +1863,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Whose Live Anyway?",
@@ -1610,7 +1877,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Music & Performance"
+      "displayCategory": "Music & Performance",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Kalani Peʻa – Hawaiian Christmas Show",
@@ -1621,7 +1891,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://kahilu.org/shows/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "ʻAha Hawaiʻi Kuauli Workshop Series",
@@ -1644,7 +1917,10 @@
       "venue": "Kahilu Theatre",
       "sourceUrl": "https://boxoffice.hiff.org/how-to-hiff",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "Family Story Time – Pāhoa",
@@ -1851,7 +2127,10 @@
       "venue": "Queens’ Marketplace",
       "sourceUrl": "https://www.konaweb.com/calendar/",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://www.konaweb.com/calendar/",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Native Food Forest Workshop Series",
@@ -2142,7 +2421,10 @@
       "venue": "Ainaloa Longhouse",
       "sourceUrl": "https://www.ainaloacommunityassociation.org/",
       "status": "recurring-series",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.ainaloacommunityassociation.org/",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Yoga at SCP Hilo Hotel",
@@ -2178,7 +2460,10 @@
       "venue": "67-139 Pukalani Rd",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Kona Village Cocktail Pop-Up – Rubén Rolón of Bar Colette",
@@ -2230,7 +2515,10 @@
       "parentEvent": "Hawaiʻi International Film Festival",
       "sourceUrl": "https://hawaii.com/events/hawai-i-international-film-festival",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://kahilu.org/shows/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "kahilu"
     },
     {
       "name": "HIFF46 Neighbor Island – Hilo",
@@ -2243,7 +2531,10 @@
       "parentEvent": "Hawaiʻi International Film Festival",
       "sourceUrl": "https://hawaii.com/events/hawai-i-international-film-festival",
       "status": "verified",
-      "displayCategory": "Festivals & Celebrations"
+      "displayCategory": "Festivals & Celebrations",
+      "imageSourcePage": "https://hilopalace.com/palace-event/",
+      "imageStatus": "official-image-available",
+      "imageFamily": "hilo-palace"
     },
     {
       "name": "Feast & Fire Lūʻau at OUTRIGGER Kona Resort & Spa",
@@ -2267,7 +2558,10 @@
       "venue": "250 Waikoloa Beach Drive",
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
-      "displayCategory": "Markets & Fairs"
+      "displayCategory": "Markets & Fairs",
+      "imageSourcePage": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "imageStatus": "image-source-identified",
+      "imageFamily": "market"
     },
     {
       "name": "Kona-Kohala Chamber AfterHours – Kona Coffee & Tea",
